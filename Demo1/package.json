@@ -1,0 +1,11 @@
+{
+  "name": "nodehardbattle",
+  "version": "1.0.0",
+  "description": "node硬实战例子",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
