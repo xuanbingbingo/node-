@@ -10,3 +10,5 @@ fs.readFile('./index.html', 'utf8', function(err, html){
     var releases = $('.bingo')
     console.log(releases.html())
 })
+
+//在浏览器端使用Node模块儿(暂时跳过)
